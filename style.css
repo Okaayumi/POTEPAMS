@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+}
+
+h3{
+  text-align: center;
+  
+}
+
+#time{
+  text-align: center;
+  font-weight: bold;
+}
+
+#buttons{
+  text-align: center;
+  padding-top: 30px;
+}
